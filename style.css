@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(26, 26, 26) !important;
+    background-blend-mode: overlay;
+    color: white;
+}
+
+.item{
+    list-style: none;
+    padding-right: 2px;
+    margin-right: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.link{
+    text-decoration: none;
+    color: white;
+}
+
+.profile-photo{
+    width: 400px;
+    height: 450px;
+}
+
+.social-icons{
+    padding: 5px;
+    font-size: 32px;
+}
+
+.fa-regular,.fa-brands{
+    color:#157347;
+}
+
+.project-1{
+    width: 75%;
+    border: 1px solid gray;
+}
